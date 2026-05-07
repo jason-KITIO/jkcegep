@@ -5357,7 +5357,7 @@ strong {
 .generic-content ol > li > ul li::marker,
 .generic-content ul > li > ul li::marker {
   color: var(--color-bleu-sl);
-  content: "";
+  /* content: ""; */
   font-family: Font Awesome\6 Pro;
   font-size: 0.9em;
 }
@@ -5367,7 +5367,7 @@ strong {
 }
 .generic-content ul li::marker {
   color: var(--color-bleu-sl);
-  content: "";
+  /* content: ""; */
   font-family: Font Awesome\6 Pro;
   font-size: 0.9em;
 }
